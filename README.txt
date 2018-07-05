@@ -1,4 +1,3 @@
-test
 Apache HttpComponents Core
 ==========================
 
