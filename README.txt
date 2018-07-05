@@ -1,4 +1,4 @@
-Apache HttpComponents Core
+ Apache HttpComponents Core
 ==========================
 
 Welcome to the HttpCore component of the Apache HttpComponents project.
